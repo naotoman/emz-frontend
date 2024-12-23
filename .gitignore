@@ -5,3 +5,5 @@ node_modules
 amplify_outputs.json
 
 parameters.json
+
+dist/
